@@ -41,7 +41,7 @@ export default function LobbySetup() {
           <span className="title-to">to</span>
           <span className="title-1400">1400</span>
         </h1>
-        <p className="lobby-subtitle">Pokémon Draft Challenge</p>
+        <p className="lobby-subtitle">shoutout bryan</p>
       </div>
 
       <div className="lobby-grid">
